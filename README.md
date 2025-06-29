@@ -1,2 +1,2 @@
-# Advance-Statical-Method-Machine-Learning-
+# Advance-Statical-Method-Machine-Learning
 Data Science Bootcamp-Part 5
